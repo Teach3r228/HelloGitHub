@@ -10,6 +10,7 @@ namespace ConsoleTestGitHub
             Console.WriteLine("Первое изменение!"); 
             Console.WriteLine("Второе изменение!");
             Console.WriteLine("Изменение на ноуте");
+            Console.WriteLine("Изменение на компе");
             Console.ReadKey();
         }
     }

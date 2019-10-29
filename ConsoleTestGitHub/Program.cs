@@ -7,6 +7,7 @@ namespace ConsoleTestGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Первое изменение!");
             Console.ReadKey();
         }
     }

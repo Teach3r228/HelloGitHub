@@ -8,6 +8,7 @@ namespace ConsoleTestGitHub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Первое изменение!");
+            Console.WriteLine("Изменение после слияние веток master и firstchange");
             Console.ReadKey();
         }
     }
